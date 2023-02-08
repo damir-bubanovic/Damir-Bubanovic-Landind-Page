@@ -1,7 +1,7 @@
 <p align="center"><img src="src/assets/damir-photo.png"></p>
 
 
-## Damir Bubanović | Landind Page
+## Damir Bubanović | Landing Page
 
 
 
